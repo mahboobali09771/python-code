@@ -4,9 +4,6 @@ print("Before swaping ")
 print(a)
 print(b)
 print("After swaping")
-a = a ^ b
-b = a ^ b
-a = a ^ b
-
+b,a = a,b
 print("a = ",a)
 print("b = ",b)
