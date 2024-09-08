@@ -1,3 +1,4 @@
+# wap to print all unique combination of 1,2,3 not to repeat any digit (111 222 333 not allowed)
 digits = [int(x) for x in input("enter 3 digits ").split()]
 l = len(digits)
 i = 0

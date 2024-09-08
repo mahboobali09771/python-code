@@ -1,3 +1,4 @@
+# wap to check whether given number is prime or not ? (take input from keyboard & don't use inbuilt functions)
 n = int(input("Enter any number "))
 i = 1
 count = 0

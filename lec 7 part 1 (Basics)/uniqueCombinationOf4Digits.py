@@ -1,3 +1,4 @@
+#  wap to print all unique combination of 1,2,3,4 not to repeat any digit (1111 2222 3333 4444 not allowed)
 digits = [int(x) for x in input("enter 4 digits ").split()]
 l = len(digits)
 i = 0
